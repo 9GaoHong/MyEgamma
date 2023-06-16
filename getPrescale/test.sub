@@ -1,0 +1,6 @@
+executable =/bin/sh
+arguments = /afs/cern.ch/user/h/hgao/TnPtree-analyzer/getPrescale/test.sh
+output = 1.out
+error = 1.err
+log = 1.log
+queue

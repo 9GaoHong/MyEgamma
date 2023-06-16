@@ -1,0 +1,13 @@
+tree_name: tnpEleTrig/fitter_tree
+tag-selections:
+  - el_q*tag_Ele_q < 0
+  - tag_refPFIsoAll03 < 0.1
+  - passingMVA94Xwp90noisoV2 > 1 
+
+electron-years:
+  - 2018
+
+2018:
+  flag:
+    - passHltEle32WPTightGsf 
+  weight: 1
